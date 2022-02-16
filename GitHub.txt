@@ -1,1 +1,5 @@
-hej hej
+https://github.com/hlykdly/Spoon-Knife
+
+git log
+git status
+git init
